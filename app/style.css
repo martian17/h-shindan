@@ -1,0 +1,35 @@
+.configarea input[type="number"]{
+    width:80px;
+}
+
+.custom>.col{
+    width:50%;
+    float:left;
+}
+
+.custom{
+    overflow:hidden;
+}
+
+.config-body{
+    max-height:0px;
+    transition: max-height 0.25s ease;
+}
+
+.config-body.visible{
+    max-height:500px;
+}
+
+
+.configchoice{
+    padding: 0px 10px;
+    margin: 10px 0px;
+}
+
+.configarea{
+    color:#000;
+}
+
+.configarea .inactive, .configarea.inactive{
+    color:#888;
+}
