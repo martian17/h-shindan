@@ -7,4 +7,4 @@
 
 1. このGitHubページのダウンロードボタンからzipファイルをダウンロードする。(ダウンロードする場所はあまり関係ない)
 2. ダウンロードフォルダーを開き、zipファイルを解凍する。h-shindanというフォルダーが現れる。
-2. [このページ](https://blog.janjan.net/2020/04/01/chrome-load-non-package-extensions/)を参考に、先程回答したh-shindanフォルダーを選択し、ロードする。
+2. [このページ](https://blog.janjan.net/2020/04/01/chrome-load-non-package-extensions/)を参考に、先程回答した`h-shindan`フォルダーの中から`app`フォルダーを選択し、ロードする。
