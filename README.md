@@ -1,5 +1,5 @@
 # h-shindan
-![screenshot](https://github.com/martian17/h-shindan/app/images/screenshot.png?raw=true)
+![screenshot](https://github.com/martian17/h-shindan/blob/main/app/images/screenshot.png?raw=true)
 今Twitterで流行っている[#hの文字でわかる性欲診断](https://kuizy.net/sketch/120)に任意の画像を挿入できる拡張機能です。  
 現在Chrome Web Soreの承認を待っているので、今すぐ使いたい方は以下の手順を参考にしてインストールしてください。  
 もし機能リクエスト、バグレポート、質問などがあれば、twitterにて @yoshi9265 までご連絡よろしくおねがいします。  
