@@ -9,3 +9,6 @@
 ## プルリクについて
 大歓迎です！READMEとか改良してもらえると助かるかもです。
 forkなどもご自由にどうぞ。
+
+
+https://keio-univ.zoom.us/meeting/register/tZclde2rqDgpGNc_TtJlU2FVQMiHtd2bMjSq
